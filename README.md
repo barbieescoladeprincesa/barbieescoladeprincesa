@@ -3,14 +3,17 @@
 <!--
 **barbieescoladeprincesa/barbieescoladeprincesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you st
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sou estudante
+Tenho uma cachorra (Nina)
+Gosto de assistir Netflix
+Gosto de dancar
+Sou extrovertida
+Sou lash design
+Gosto de encher o saco das minhas amigas
+Gosto de sair 
+Ja fiz muitos cursos
+Sou linda
+
 -->
